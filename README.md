@@ -7,6 +7,8 @@
 `vue create --preset mrdream24/VS【your-project】`
 
 ## 目录结构
+
+```
 .
 ├── README.md
 ├── .env                    // 环境变量（prod）
@@ -31,3 +33,4 @@
 │   ├── tools                // 工具函数文件夹
 │   └── views                // 页面文件夹
 └── vue.config.js
+```
