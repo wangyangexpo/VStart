@@ -1,0 +1,34 @@
+{
+  "useConfigFiles": true,
+  "cssPreprocessor": "stylus",
+  "plugins": {
+    "@vue/cli-plugin-babel": {
+      "version": "^3.0.0"
+    },
+    "@vue/cli-plugin-eslint": {
+      "version": "^3.0.0",
+      "config": "recommended",
+      "lintOn": [
+        "save",
+        "commit"
+      ]
+    },
+    "vue-cli-plugin-element": {
+      "version": "^1.0.1",
+      "prompts": true
+    }
+  },
+  "configs": {
+    "vue": {
+      "devServer": {
+        "port": 6900,
+        "hot": true
+      }
+    },
+    "postcss": {},
+    "eslintConfig": {}
+  },
+  "router": true,
+  "vuex": true,
+  "routerHistoryMode": false
+}
