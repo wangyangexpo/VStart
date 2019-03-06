@@ -3,7 +3,9 @@
 ## 怎么用
 
 `vue create --preset direct:https://git.rajax.me/GITS/VS.git 【your-project】 --clone`
+
 或者
+
 `vue create --preset mrdream24/VS【your-project】`
 
 ## 目录结构
