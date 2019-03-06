@@ -9,10 +9,6 @@
 `vue create --preset mrdream24/VS【your-project】`
 
 ## 目录结构
-<<<<<<< HEAD
-=======
-
->>>>>>> 8bf19bb9bb7d0e6b73d2cff41b33fc50f91685a5
 ```
 .
 ├── README.md
